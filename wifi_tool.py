@@ -252,7 +252,7 @@ def test_func():
         wifi_test.close
 
 
-test = input("Which test do you want run (map/test)? ")
+test = input("Which test do you want run (map/test)? ").lower()
 
 if test == "map":
     print("Commencing WiFi Mapping\n")

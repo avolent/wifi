@@ -4,13 +4,18 @@
 
 ---
 
-# to-do
+---
 
-- [ ]  Map Mode
-- [ ]  Test Mode
+## What is it?
+
+## To-Do
+
+- [x]  Map Mode
+- [x]  Test Mode
+- [ ]  Combine Modes into one script
 - [ ]  Linux Support
 
-# Idea
+## Modes
 
 **Map Mode** - Positionally grab currently connected BSSID information and all BSSIDs with-in the vicinity.
 
@@ -34,7 +39,9 @@
     TIME, DATE, SSID, BSSID, LAPTOP RX (Mbps), LAPTOP TX (Mbps), SIGNAL, CHANNEL, LOCAL MAC, PACKET LOSS, AVG PING
     ```
 
-**Output Files**
+## Mac2Location
+
+## **Output Files**
 
 The output files are date/time based, so a new one is created each run based on start time.
 
