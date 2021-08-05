@@ -1,11 +1,5 @@
 # wifi_tool.py
 
-**[GitHub](https://github.com/avolent/wifi)**
-
----
-
----
-
 ## What is it?
 
 ## To-Do
