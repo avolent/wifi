@@ -6,7 +6,7 @@
 
 - [x]  Map Mode
 - [x]  Test Mode
-- [ ]  Combine Modes into one script
+- [x  Combine Modes into one script
 - [ ]  Linux Support
 
 ## Modes
