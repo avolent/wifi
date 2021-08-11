@@ -1,6 +1,7 @@
 # wifi_tool.py
 
 ## What is it?
+My first ever python script which can be used to map out WiFi networks, log data and troubleshoot issues. This will slowly be improved as my I grow my python experience.
 
 ## To-Do
 
