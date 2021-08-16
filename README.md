@@ -2,6 +2,7 @@
 
 ## What is it?
 My first ever python script which can be used to map out WiFi networks, log data and troubleshoot issues. This will slowly be improved as I grow my python experience.
+Only supports windows at this current time.
 
 ## To-Do
 
@@ -35,7 +36,13 @@ My first ever python script which can be used to map out WiFi networks, log data
     ```
 
 ## Mac2Location
+File used to store all the BSSID MAC addresses to Name/Location Conversions.
 
+File should be layed out as follows.
+    ```csv
+    name,aa:bb:cc:dd:ee:ff
+    name2,aa:bb:cc:dd:ee:ff
+    ```
 
 ## Output Files
 
