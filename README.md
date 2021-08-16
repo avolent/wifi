@@ -36,7 +36,8 @@ My first ever python script which can be used to map out WiFi networks, log data
 
 ## Mac2Location
 
-## **Output Files**
+
+## Output Files
 
 The output files are date/time based, so a new one is created each run based on start time.
 
